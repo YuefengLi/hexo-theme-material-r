@@ -13,9 +13,11 @@
 
 ## Introduction 介绍
 
-博客自用主题，fork 自 2020 年 4 月的 [hexo-theme-material](https://github.com/bolnh/hexo-theme-material)。
+博客自用主题，源自 2020 年 4 月的 [hexo-theme-material](https://github.com/bolnh/hexo-theme-material)。
 
-写死了一些东西，不适合迁移。
+最开始的时候，因为感觉自己写死了一些东西，favicon 啊什么的，不适合迁移，所以就没有在 GitHub 上 fork 过来，而是自己建了个 repo，现在有点后悔来着，不过就这样吧。
+
+反正确实不适合迁移。
 
 ## Demo 演示
 
