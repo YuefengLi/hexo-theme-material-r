@@ -3,6 +3,7 @@ sidebar:
     archive: "Archives"
     article_num: "Number of articles"
     timeline: "Timeline"
+    tags: "Tag Cloud"
 post:
     visitor: "Visitors"
     views: "Views"

@@ -3,6 +3,7 @@ sidebar:
     archive: "归档"
     article_num: "文章总数"
     timeline: "时间线"
+    tags: "标签云"
 post:
     visitor: "访客"
     views: "浏览量"
