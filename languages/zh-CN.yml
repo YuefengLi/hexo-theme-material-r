@@ -6,7 +6,7 @@ sidebar:
     tags: "标签云"
 post:
     visitor: "访客"
-    views: "浏览量"
+    views: "次浏览"
     continue: "阅读全文"
     older: "旧篇"
     newer: "新篇"
